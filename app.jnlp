@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+">
+<jnlp spec="1.0+" codebase ="https://thisjustin123.github.io" href="app.jnlp">
     <information>
         <title>Vocab Racer</title>
-        <vendor>Me</vendor>
+        <vendor>Justin Guo</vendor>
     </information>
     <resources>
         <!-- Application Resources -->
