@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+">
+    <information>
+        <title>Vocab Racer</title>
+        <vendor>Me</vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.7+"
+              href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="vocabKartPlayer.jar"
+            main="true" />
+
+    </resources>
+    <application-desc
+         name="Vocab Racer Demo"
+         main-class=
+           "Client"
+         width="300"
+         height="300">
+     </application-desc>
+     <update check="background"/>
+</jnlp>                
